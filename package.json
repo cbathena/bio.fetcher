@@ -1,0 +1,20 @@
+{
+  "name": "bio.fetcher",
+  "description": "This is a project from JB. He needs to get a WORD version of his students' bio from a website.",
+  "version": "0.0.0",
+  "main": "main.js",
+  "author": "JingAn Chen",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "readme": "readme.md",
+  "engines": {
+    "node": "6.2.0",
+    "npm": "3.9.0"
+  }
+}
